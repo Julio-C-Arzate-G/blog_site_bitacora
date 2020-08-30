@@ -1,1 +1,16 @@
-body {background-color: aquamarine;}
+body {
+    background-color: aquamarine;
+    }
+
+.main {
+    width: 70%;
+    margin: 0px auto;
+    border: 1px solid blue;
+    padding: 20px;
+    background-color: lightblue;
+    }
+
+ h2{
+     margin-top: 0px;
+     
+ }
