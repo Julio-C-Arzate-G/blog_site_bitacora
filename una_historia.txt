@@ -2,8 +2,7 @@ Hola soy Julio estoy aprendiendo git
 
 no se que poner en esta linea
 
-holaaaaaaa
+holaaa agrego nuevo texto para pruebas 
 
-Egpito, Nueva Zelanda, Islandia 
+y otro renglon tambien
 
-me gusta el rock
