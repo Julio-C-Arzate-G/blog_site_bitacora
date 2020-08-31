@@ -4,11 +4,11 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .main {
-    width: 70%;
+    width: 60%;
     margin: 0px auto;
     border: 1px solid blue;
     padding: 20px;
-    background-color: lightblue;
+    background-color: lightseagreen;
     }
 
  h2{
@@ -17,9 +17,12 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
  }
 
  .encabezado{
-     background-color: lightskyblue;
+     background-color: dodgerblue;
      padding: 20px;
      margin-bottom: 20px;
      font-size: 30px;
      box-shadow: black 0px 2px 2px 0 ;
  }
+h3 {
+    color: indigo;
+}
