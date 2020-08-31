@@ -1,5 +1,5 @@
 body {
-    background-color: aquamarine;
+    /* background-color: aquamarine; */
     }
 
 .main {
@@ -12,5 +12,13 @@ body {
 
  h2{
      margin-top: 0px;
-     
+
+ }
+
+ .encabezado{
+     background-color: lightskyblue;
+     padding: 20px;
+     margin-bottom: 20px;
+     font-size: 30px;
+     box-shadow: black 0px 2px 2px 0 ;
  }
