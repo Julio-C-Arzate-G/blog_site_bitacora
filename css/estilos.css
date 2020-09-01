@@ -11,6 +11,8 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color: lightseagreen;
     }
 
+   
+
  h2{
      margin-top: 0px;
 
@@ -22,7 +24,29 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
      margin-bottom: 20px;
      font-size: 30px;
      box-shadow: black 0px 2px 2px 0 ;
+     display:flex;
+     justify-content: space-between;
+     align-items: center;
  }
-h3 {
-    color: indigo;
+
+ figure{
+     margin: 0px;
+ }
+
+ img{
+     width: inherit;
+     height: inherit;
+    }
+ul{
+    margin: 0px;
+    list-style: none;
+    display: flex;
 }
+
+a{
+    padding-right: 10px;
+    text-decoration: none;
+    color: white;
+}
+
+
